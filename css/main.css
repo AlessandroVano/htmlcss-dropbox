@@ -10,3 +10,22 @@
     display: table;
     clear: both;
 }
+
+/* HEADER section */
+
+.box-1 , .box-2 {
+    float: left;
+    line-height: 40px;
+    margin: 1%;
+}
+
+.box-1 { width: 48%;
+    background: royalblue;
+    
+   
+}
+.box-2 {
+    width: 48%;
+    background: royalblue;
+    
+}
