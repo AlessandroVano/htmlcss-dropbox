@@ -13,19 +13,24 @@
 
 /* HEADER section */
 
+/* sezione box */
 .box-1 , .box-2 {
     float: left;
     line-height: 40px;
-    margin: 1%;
 }
-
-.box-1 { width: 48%;
-    background: royalblue;
-    
-   
+.box-1 { width: 30%;
+     margin-left: 2% ;
+     background-color: gray;
 }
 .box-2 {
-    width: 48%;
-    background: royalblue;
-    
+    width: 30%;
+    background:gray;
+    margin-left:  36% ;
 }
+
+    /* sezione nav */
+    .main-menu  ul li {
+        display: inline-block;
+        list-style: none;
+    }
+    
