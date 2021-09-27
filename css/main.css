@@ -84,3 +84,6 @@ background: brown;
     height: 50%;
     background: coral;
 }
+.hero-img img {
+    width: 100%;
+}
