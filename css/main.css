@@ -1,4 +1,4 @@
-/* UTILITY */
+/* GENERAL */
 *{
     margin: 0%;
     padding: 0%;
@@ -9,6 +9,12 @@
     content: "";
     display: table;
     clear: both;
+}
+.fs {
+    font-size: 20px;
+}
+.mt {
+    margin-top: 2%;
 }
 
 /* HEADER section */
@@ -21,16 +27,17 @@ header{
 .box-1 , .box-2 {
     float: left;
     line-height: 40px;
+
 }
-.box-1 { width: 34%;
-    margin-right: 31%;
+.box-1 {width: 38%;
+    margin-right: 18%;
     margin-left: 1%;
-     
 }
 .box-2 {
-    width: 33%;
-    margin-right: 1%;
+    width: 42%;
+    margin-right: 0%;
     text-align: right;
+   
 }
 
     /* sezione nav */
@@ -54,36 +61,56 @@ header{
 /* MAIN section */
 
 /* HERO section */
-
+.hero-section {
+    background: rgb(176, 200, 248);
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
 .container-hero{
     width: 80%;
     margin: 0% auto;
-    padding: 3%;
-   background: rgb(223, 223, 223);
+    padding-top: 1%;
 }
 /* TITLE */
 
 .Title{
     width: 100%;
-    height: 50%;
-   
+    margin-top: 5%;
 }
 h1 {
-    font-size: 49px;
+    font-size: 80px;
 }
 /* TEXT, IMG */
 
  .text-left {
-width: 50%;
-height: 50%;
-background: brown;
+width: 30%;
  }
-
+ 
 .hero-img {
-    width: 50%;
-    height: 50%;
-    background: coral;
+    width: 55%;
+    margin-left: 30%;
+    position: absolute;
+    
 }
 .hero-img img {
     width: 100%;
+}
+
+.text-left, .hero-img {
+    float: left;
+}
+/* Distanziamento elementi all'interno di text-left */
+.text-left-mt {
+    margin-top: 10%;
+}
+
+span {
+    display: block;
+    font-size: 17px;
+    margin-top: 2%;
+}
+ .fa-arrow-down {
+   margin-top: 10%;
+   margin-bottom: 20%;
 }
