@@ -13,6 +13,11 @@
 h2 {
     font-size: 40px;
 }
+h3 {font-size: 30px;
+}
+h4 {
+    font-size: 17px;
+}
 .fs {
     font-size: 20px;
 }
@@ -185,7 +190,7 @@ font-size: 18px;
     /* background: coral; */
 }
 .box-7 {
-    height: 50px;
+    height: 50px; 
     width: 100%;
     font-size: 17px;
     text-align: center;
@@ -195,10 +200,11 @@ font-size: 18px;
     float: left;
 }
 .box-8 {
-    height: 150px;
+    height: 1oo;
     width: 70%;
-    background-color: darkgoldenrod;
+    /* background-color: darkgoldenrod; */
 }
+
 
 .box-9 {
     height: 150px;
