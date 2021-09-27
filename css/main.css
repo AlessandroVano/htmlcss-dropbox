@@ -123,7 +123,7 @@ span {
    margin-bottom: 20%;
 }
 /* SECTION A*/
-.section-a {
+.container-2 {
     width: 70%;
     margin-top:15%;
     margin-left:15%;
@@ -176,4 +176,28 @@ span {
     list-style: none;
 font-size: 18px;
 
+}
+.section-b {
+    width: 100%;
+    height: 200px;
+    background: coral;
+}
+.box-7 {
+    height: 50px;
+    width: 100%;
+    background-color: crimson;
+}
+.box-8, .box-9 {
+    float: left;
+}
+.box-8 {
+    height: 150px;
+    width: 70%;
+    background-color: darkgoldenrod;
+}
+
+.box-9 {
+    height: 150px;
+    width: 30%;
+    background: lemonchiffon;
 }
