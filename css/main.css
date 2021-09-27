@@ -38,12 +38,12 @@ h2 {
     line-height: 40px;
 
 }
-.box-1 {width: 38%;
+.box-1 {width: 42%;
     margin-right: 18%;
     margin-left: 1%;
 }
 .box-2 {
-    width: 42%;
+    width: 37%;
     text-align: right;
    
 }
@@ -52,7 +52,7 @@ h2 {
     .brand {
         vertical-align: -17%;
     }
-    a {
+     .menu, a {
      text-decoration: none;
      color: black;
     }
@@ -138,19 +138,23 @@ span {
 /*  3 colonne */
 .box-4 {
     width: 30%;
-    height: 500px;
-    background-color: crimson;
+    height: 100%;
+    /* background-color: crimson; */
     margin-right: 5%;
+    border: solid gray;
 }
+
 .box-5 {
     width: 30%;
-    height: 500px;
-    background-color: darkmagenta;
+    height: 100%;
+    border: solid gray;
+    /* background-color: darkmagenta; */
 }
 .box-6 {
     width: 30%;
-    height: 500px;
-    background-color: darkslateblue;
+    height: 100%;
+    border: solid gray;
+   /*  background-color: darkslateblue; */
     margin-left: 5%;
 }
 .box-4, .box-5, .box-6 {
@@ -163,3 +167,13 @@ span {
     padding: 10px;
 }
 
+.padding-margin, span, li {
+    padding: 10px;
+    margin: 10px;
+}
+
+.list {
+    list-style: none;
+font-size: 18px;
+
+}
