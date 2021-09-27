@@ -124,3 +124,30 @@ span {
 }
 
 /* title + checkbox */
+.box-3 {
+    width: 100%;
+    height: 120px;
+    background-color: cornsilk;
+}
+
+/*  3 colonne */
+.box-4 {
+    width: 30%;
+    height: 500px;
+    background-color: crimson;
+    margin-right: 5%;
+}
+.box-5 {
+    width: 30%;
+    height: 500px;
+    background-color: darkmagenta;
+}
+.box-6 {
+    width: 30%;
+    height: 500px;
+    background-color: darkslateblue;
+    margin-left: 5%;
+}
+.box-4, .box-5, .box-6 {
+    float: left;
+}
