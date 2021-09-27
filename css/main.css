@@ -200,14 +200,22 @@ font-size: 18px;
     float: left;
 }
 .box-8 {
-    height: 1oo;
+    height: 100%;
     width: 70%;
+    border-right: none;
+
     /* background-color: darkgoldenrod; */
 }
 
-
 .box-9 {
-    height: 150px;
+    height: 200px;
     width: 30%;
-    background: lemonchiffon;
+    /* background: lemonchiffon; */
+    border-left: none;
 }
+.button {
+    margin-top: 24px;
+    margin-bottom: 30px;
+    font-size: 17px;
+    padding: 10px 40px;
+    
