@@ -73,4 +73,9 @@ h1 {
 }
 /* TEXT, IMG */
 
+ .text-left {
+width: 50%;
+height: 50%;
+background: brown;
+ }
  
