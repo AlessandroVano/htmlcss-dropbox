@@ -78,4 +78,9 @@ width: 50%;
 height: 50%;
 background: brown;
  }
- 
+
+.hero-img {
+    width: 50%;
+    height: 50%;
+    background: coral;
+}
