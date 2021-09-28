@@ -404,7 +404,7 @@ font-size: 15px;
          width: 100%;
          height: 300px;
          background: cornflowerblue;
-         margin-bottom: 12%;
+         
      }
      .block-25, .block-26 {
          float: left;
@@ -425,6 +425,38 @@ font-size: 15px;
         padding-top: 7%;
         /* background: rgb(223, 96, 121); */
      }
+     /* SECTION H */
+
+     .box-13 {
+        width: 100%;
+         height: 500px;
+         margin-bottom: 12%;
+       /*   background-color: cadetblue; */
+     }
+     .block-27 {
+         width: 100%;
+         height: 120px;
+        /*  background-color: cornflowerblue; */
+     }
+     .block-28 {
+            width: 100%;
+            height: 95px;
+            /* background-color: rgb(164, 192, 245); */
+        }
+      .block-27 h2 {
+            padding-bottom: 5%;
+        }  
+      .block-28 h4 {
+          padding-top: 1%;
+          padding-bottom: 3%;
+      }
+      .m {
+          margin-left: 400px;
+      }
+
+
+     
+
 
       
 
