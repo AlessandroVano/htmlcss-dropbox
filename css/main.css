@@ -357,7 +357,7 @@ font-size: 15px;
 .block-23 {
     width: 50%;
     height: 100%;
-    background: rgb(219, 100, 100);
+    background: rgb(172, 172, 172);
 }
 .block-24 {
     width: 25%;
@@ -375,13 +375,33 @@ font-size: 15px;
     float: left;
     width: 50%;
     height: 50%;
+    position: relative;
     /* background: lemonchiffon; */}
     
     /* IMG SQUARE */
     .block-22 img, .block-24 img {
-        width: 100%; 
+        width: 120px; 
+        position: absolute;
+        margin: auto;
+        top: 0%;
+        left: 0%;
+        right: 0%;
+        bottom: 0%;
+        filter: grayscale (100%);
     } 
+    
        
-     
+     /* BLOCK 23 */
+     .block-23 img {
+         width: 200px;
+         padding: 40px 0%;
+         margin-left: 50px; 
+     }
+     .margin {
+        margin: 0 40px;
+     }
+      
+
+
 
 
