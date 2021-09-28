@@ -62,7 +62,7 @@ h4 {
     .brand {
         vertical-align: -17%;
     }
-     .menu, a {
+     .menu a {
      text-decoration: none;
      color: black;
     }
@@ -320,4 +320,24 @@ font-size: 15px;
 }
 
 /* SECTION E */
+
+.box-10 {
+    max-width: 47%;
+    height: 250px;
+    margin-top: 15%;
+    /* background-color: cadetblue; */
+    margin-bottom: 10%;
+}
+
+.block-20 {
+    width:100%;
+    height: 60%;
+    /* background-color: chocolate ; */
+}
+.block-21 {
+    width:100%;
+    height: 30%;
+   /*  background-color: greenyellow ; */
+}
+
 
