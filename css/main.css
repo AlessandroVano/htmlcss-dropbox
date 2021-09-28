@@ -458,6 +458,8 @@ font-size: 15px;
           width: 100%;
           height: 500px;
           background-color: black;
+          color: white;
+          
       }
       .block-29, .block-30, .block-31, .block-32, .block-33{
           float: left;
@@ -466,32 +468,58 @@ font-size: 15px;
           width: 15%;
           height: 100%;
           margin-left: 5%;
-          background-color: rgb(216, 190, 150);
+         /*  background-color: rgb(216, 190, 150); */
       }
       .block-30 {
         width: 15%;
         height: 100%;
         margin-left: 2%;
-        background-color: rgb(117, 71, 3);
+       /*  background-color: rgb(117, 71, 3); */
     }
     .block-31 {
         width: 15%;
         height: 100%;
         margin-left: 2%;
-        background-color: rgb(255, 255, 255);
+       /*  background-color: rgb(255, 255, 255); */
     }
     .block-32 {
         width: 15%;
         height: 100%;
         margin-left: 2%;
-        background-color: blanchedalmond;
+        /* background-color: blanchedalmond; */
     }
     .block-33 {
         width: 15%;
         height: 100%;
         margin-left: 2%;
-        background-color: rgb(194, 145, 72);
+       /*  background-color: rgb(194, 145, 72); */
     }
+    
+    .menu-footer h3 {
+        padding-left: 5%;
+    }
+    .menu-footer  {
+        list-style: none;
+        padding-top: 50%;
+        
+        
+    }
+    .menu-footer a {
+        text-decoration: none;
+        color: white;
+    }
+    .footer-p-m {
+        padding: 0%;
+        margin: 10px;
+    }
+    .padding-bottom{
+        padding-bottom: 40%;
+    }
+    .padding-top {
+        padding-top: 15%;
+        color: grey;
+    }
+
     
 
 
