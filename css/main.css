@@ -430,7 +430,7 @@ font-size: 15px;
      .box-13 {
         width: 100%;
          height: 500px;
-         margin-bottom: 12%;
+         margin-bottom: 8%;
        /*   background-color: cadetblue; */
      }
      .block-27 {
@@ -453,6 +453,46 @@ font-size: 15px;
       .m {
           margin-left: 400px;
       }
+      /* FOOTER */
+      .box-14 {
+          width: 100%;
+          height: 500px;
+          background-color: black;
+      }
+      .block-29, .block-30, .block-31, .block-32, .block-33{
+          float: left;
+      }
+      .block-29 {
+          width: 15%;
+          height: 100%;
+          margin-left: 5%;
+          background-color: rgb(216, 190, 150);
+      }
+      .block-30 {
+        width: 15%;
+        height: 100%;
+        margin-left: 2%;
+        background-color: rgb(117, 71, 3);
+    }
+    .block-31 {
+        width: 15%;
+        height: 100%;
+        margin-left: 2%;
+        background-color: rgb(255, 255, 255);
+    }
+    .block-32 {
+        width: 15%;
+        height: 100%;
+        margin-left: 2%;
+        background-color: blanchedalmond;
+    }
+    .block-33 {
+        width: 15%;
+        height: 100%;
+        margin-left: 2%;
+        background-color: rgb(194, 145, 72);
+    }
+    
 
 
      
