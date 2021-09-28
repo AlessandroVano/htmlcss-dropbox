@@ -10,6 +10,38 @@
     display: table;
     clear: both;
 }
+.button {
+    margin-top: 24px;
+    margin-bottom: 30px;
+    font-size: 17px;
+    padding: 3% 18%;
+    color: white;
+    background-color:rgb(50, 50, 241) ;
+}
+.button-1{
+    margin-top: 10%;
+    padding: 3%;
+    color: white;
+    background-color:rgb(50, 50, 241) ;
+}
+.button-2 {
+    padding: 3% 13%;
+    color: white;
+    background-color:rgb(50, 50, 241) ;
+}
+.button-3 {
+    margin-top: 24px;
+    margin-bottom: 30px;
+    font-size: 17px;
+    padding: 3% 18%;
+    color: rgb(0, 0, 0);
+    background-color:rgb(255, 255, 255) ;
+}
+.button-4 {
+    padding: 3% 13%;
+    color: rgb(0, 0, 0);
+    background-color:rgb(255, 255, 255) ;
+}
 h2 {
     font-size: 40px;
 }
@@ -119,9 +151,6 @@ width: 30%;
     float: left;
 }
 /* Distanziamento elementi all'interno di text-left */
-.text-left-mt {
-    margin-top: 10%;
-}
 
 span {
     display: block;
@@ -218,12 +247,7 @@ font-size: 15px;
     border-left: none;
     border-top: none;
 }
-.button {
-    margin-top: 24px;
-    margin-bottom: 30px;
-    font-size: 17px;
-    padding: 10px 40px;
-}
+
 /* SECTION C */
 .block-10 {
     width: 100%;
